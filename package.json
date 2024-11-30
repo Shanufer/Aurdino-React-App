@@ -1,0 +1,27 @@
+{
+  "name": "aurdino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@shopify/react-native-skia": "^1.5.3",
+    "@types/react": "^18.3.12",
+    "d3": "^7.9.0",
+    "expo": "~52.0.4",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-native": "0.76.1",
+    "react-native-paper": "^5.12.5",
+    "react-native-reanimated": "^3.16.1",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
